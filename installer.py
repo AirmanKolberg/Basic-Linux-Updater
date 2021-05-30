@@ -48,7 +48,7 @@ if __name__ == '__main__':
     install_app()
 
     print('Your app is installed!')
-    sleep(1)
+    sleep(1.25)
 
     clear_screen()
     remove_installer()
