@@ -15,6 +15,8 @@ are still very new at this point.  Because of this, I've written this simple scr
 
 That's it.  The installer will ask if you wish to deleted the installer.py file when done, which I recommend you do.  Why waste the extra 2KB, right?  Storage ain't free, ya' know.
 
+---
+
 ### Donations!
 If you found this simple script helpful, or rather you know someone for whom this script would be helpful, consider contributing to the Personal Foundation of My Pocket.  This application did take me many, perhaps even several minutes to make, let alone this Markdown file.
 
