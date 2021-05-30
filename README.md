@@ -20,3 +20,11 @@ If you found this simple script helpful, or rather you know someone for whom thi
 
 Cardano (ADA):
 addr1q9jxsfd87g4f9rcl7x43lwxnkmklek279yw0fhwrsm3pjjal23me7f9yesnhs2fhpf05xd0deta3csgn4z433rze7yjsav8ejn
+
+
+BitCoin (BTC): 
+3Gj49JGVPXjw3994bSebQNrHsFJkZE9iRg
+
+
+Etherium (ETH): 
+0x08b57537943BBb6A527C9c861E9550D9Be9f7729
